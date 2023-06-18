@@ -1,2 +1,2 @@
-# moon-animator
-moon animator the roblox plugin
+# Moon Animator
+the roblox plugin
