@@ -8,8 +8,9 @@ the roblox plugin
   Moon Animator 2 Modded
 </a><br><br>
 
-<p>Modded Features:
-- Autosave (every minute)
-- Audio Support (buggy)
-- Catalog / Accessory Inserter
+<p>
+  Modded Features:
+  - Autosave (every minute)
+  - Audio Support (buggy)
+  - Catalog / Accessory Inserter
 </p>
