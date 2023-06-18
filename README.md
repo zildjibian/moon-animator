@@ -7,5 +7,6 @@ the roblox plugin
 <a href="https://www.roblox.com/library/13348928931">
   Moon Animator 2 Modded
 </a><br>
-Modded Features:- Autosave (every minute)
+Modded Features:
+- Autosave (every minute)
 - Audio Support
