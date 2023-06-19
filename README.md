@@ -12,3 +12,4 @@ the roblox plugin
   - Autosave (every minute)
   - Audio Support (buggy)
   - Catalog / Accessory Inserter
+  - Bézier Easing
