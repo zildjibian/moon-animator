@@ -10,6 +10,9 @@ the roblox plugin
 
 ## Modded Features
   - Autosave (every minute)
-  - Audio Support (buggy)
+    
+  - Audio Support (laggy)
+    
   - Bézier Easing
+    
   - Catalog / Accessory Inserter
