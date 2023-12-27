@@ -13,3 +13,4 @@ the roblox plugin
   - Audio Support
   - Bézier Easing
   - Catalog / Accessory Inserter
+  - UI Support (use SurfaceGUI)
