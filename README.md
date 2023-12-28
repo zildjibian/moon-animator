@@ -10,7 +10,7 @@ the roblox plugin
 
 ## Modded Features
   - Autosave (every minute)
-  - Audio Support
+  - <a href="https://youtu.be/9lsvWiSNLZ0">Audio Support</a>
   - Bézier Easing
   - Catalog / Accessory Inserter
   - UI Support (use SurfaceGUI)
