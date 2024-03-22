@@ -1,0 +1,94 @@
+<html>
+	<head>
+		<title>Moon Animator 2 Modded Docs</title>
+		<style>
+			body {
+				background-color: rgb(18, 22, 61);
+			}
+			
+			a {
+				text-decoration: none;
+			}
+			
+			p {
+				color: rgb(245, 245, 245);
+				font-family: 'Source Sans Pro', Arial, sans-serif;
+				margin: 0px;
+			}
+			
+			.marker {
+				font-size: 50px;
+			}
+			
+			.mobject {
+				font-size: 35px;
+			}
+			
+			.mexpl {
+				font-size: 20px;
+				margin: 10px 0px 0px 0px;
+				
+				font-weight: 900;
+			}
+			
+			.minher {
+				font-size: 14px;
+				margin: 0px;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<a class="marker" href="#Classes"><p id="Classes">Classes</p></a>
+		<div>
+			<a class="mobject" href="#c.Object"><p id="c.Object">Object</p></a>
+			
+			<p class="mexpl">Constructor</p>
+			<p>- Object:new(create: any) -> Object</p>
+			<br>
+			
+			<p class="mexpl">Properties</p>
+			<p>- Object.ThemedItems: { Instance }</p>
+			<p>- Object.ParentObjectGroups: { [string]: ObjectGroup }</p>
+			<br>
+			
+			<p class="mexpl">Methods</p>
+			<p>- Object:Destroy() -> void</p>
+			<p>- Object:AddPaintedItem(item: Instance, paintData: { property: any }) -> void</p>
+			<p>- Object:RemovePaintedItem(item: Instance) -> void</p>
+			<p>- Object:SetItemPaint(item: Instance, paintData: { property: any }, tweenTime: number) -> void</p>
+		</div>
+		<br>
+		<div>
+			<a class="mobject" href="#c.ObjectGroup"><p id="c.ObjectGroup">ObjectGroup</p></a>
+			
+			<p>Inherited from:</p>
+			<a class="minher" href="#c.Object"><p>- Object</p></a>
+			
+			<p class="mexpl">Constructor</p>
+			<p>- ObjectGroup:new(name: string) -> ObjectGroup</p>
+			<br>
+			
+			<p class="mexpl">Properties</p>
+			<p>- ObjectGroup.name: string</p>
+			<p>- ObjectGroup.Objects: { Object }</p>
+			<p>- ObjectGroup.GroupLookup: { [string]: ObjectGroup }</p>
+			<p>- ObjectGroup.size: number</p>
+			<p>- ObjectGroup.dict: { [string]: Object }</p>
+			<p>- ObjectGroup.inds: { [string]: number }</p>
+			<br>
+			
+			<p class="mexpl">Methods</p>
+			<p>- ObjectGroup:Move(Object: Object, index: number) -> void</p>
+			<p>- ObjectGroup:Add(Object: Object) -> void</p>
+			<p>- ObjectGroup:Insert(Object: Object, index: number) -> void</p>
+			<p>- ObjectGroup:Remove(Object: Object) -> void</p>
+			<p>- ObjectGroup:RemoveAt(index: number) -> void</p>
+			<p>- ObjectGroup:Clear() -> void</p>
+			<p>- ObjectGroup:IndexOf(Object: Object) -> void</p>
+			<p>- ObjectGroup:Iterate(func: (object: Object, objectGroup: ObjectGroup) -> boolean?, object_filter: string?) -> void</p>
+			<p>- ObjectGroup:Contains(Object: Object) -> boolean</p>
+			
+		</div>
+	</body>
+</html>
