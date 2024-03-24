@@ -2,7 +2,7 @@
 the roblox plugin
 
 <a href="https://zildjibian.github.io/moon-animator/docs.html">
-  Documentation
+  Documentation (unfinished)
 </a><br><br>
 
 <a href="https://www.roblox.com/library/4725618216">
