@@ -22,4 +22,5 @@ the roblox plugin
   - <a href="https://youtu.be/9lsvWiSNLZ0">Audio Support</a>
   - Bézier Easing
   - Catalog / Accessory Inserter
+  - Outfit Loader
   - UI Support (use SurfaceGUI)
