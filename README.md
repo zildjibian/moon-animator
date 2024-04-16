@@ -10,10 +10,10 @@ the roblox plugin
   Original Moon Animator 2
 </a><br><br>
 
-<a href="https://github.com/zildjibian/moon-animator/releases/download/latest/Moon.Animator.2.v33066.rbxm">
+<a href="https://github.com/zildjibian/moon-animator/releases/download/latest/Moon.Animator.2.rbxm">
   Moon Animator 2 Free
 </a><br>
-<a href="https://github.com/zildjibian/moon-animator/releases/download/latest/Moon.Animator.2.Modded.v32002.1.rbxm">
+<a href="https://github.com/zildjibian/moon-animator/releases/download/latest/Moon.Animator.2.Modded.rbxm">
   Moon Animator 2 Modded
 </a><br>
 
