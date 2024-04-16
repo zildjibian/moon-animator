@@ -13,7 +13,7 @@ the roblox plugin
 <a href="https://github.com/zildjibian/moon-animator/releases/download/latest/Moon.Animator.2.rbxm">
   Moon Animator 2 Free
 </a><br>
-<a href="https://github.com/zildjibian/moon-animator/releases/download/latest/Moon.Animator.2.Modded.rbxm">
+<a href="https://create.roblox.com/store/asset/13348928931/read-desc-definitely-moon-animator">
   Moon Animator 2 Modded
 </a><br>
 
