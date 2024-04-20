@@ -1,7 +1,7 @@
 # Moon Animator
 the roblox plugin
 
-<a href="https://zildjibian.github.io/moon-plus/docs.html">
+<a href="https://zildjibian.github.io/moon-plus">
   Documentation (unfinished)
 </a><br><br>
 
