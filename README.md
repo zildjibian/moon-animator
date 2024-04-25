@@ -11,7 +11,7 @@ the roblox plugin
 </a><br><br>
 
 <a href="https://github.com/zildjibian/moon-animator/releases/download/latest/Moon.Animator.2.rbxm">Moon Animator 2 Free</a>, import this to Roblox Studio then save it as a Local Plugin.<br>
-<a href="https://create.roblox.com/store/asset/17171181036/MoonPlus">Moon Plus</a>, use this with Moon Animator instead of the modded one<br>
+<a href="https://create.roblox.com/store/asset/17171181036/MoonPlus">Moon Plus</a>, use this with Moon Animator instead of the modded one.<br>
 
 ## Modded Features
   - Autosave (every minute)
