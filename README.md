@@ -5,6 +5,10 @@ the roblox plugin
   Documentation (unfinished)
 </a><br><br>
 
+## Support Moon Animator!
+- <a href="https://www.patreon.com/moonanimator">Patreon</a>
+- <a href="https://create.roblox.com/store/plugins?creatorName=xsixx">Moon Animator Themes</a><br><br>
+
 ## Link to Plugin
 <a href="https://www.roblox.com/library/4725618216">
   Original Moon Animator 2
